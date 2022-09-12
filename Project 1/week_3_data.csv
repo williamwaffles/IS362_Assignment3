@@ -1,7 +1,6 @@
-,,,,,,
-,,Los Angeles,Phoenix,San Diego,San Francisco,Seattle
-ALASKA,on time,497,221,212,503,1841
-,delayed,62,21,20,102,305
-,,,,,,
-AM WEST,on time,694,4840,383,320,201
-,delayed,117,415,65,129,61
+city,alaska_on_time,alaska_delay,amwest_on_time,am_west_delay
+Los Angeles,497,62,694,117
+Pheonix,221,12,4840,415
+San Diego,212,20,383,65
+San Francisco,503,102,320,129
+Seattle,1841,305,201,61
